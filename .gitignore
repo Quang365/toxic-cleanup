@@ -1,0 +1,27 @@
+# IntelliJ / IDE
+.idea/
+*.iml
+out/
+
+# Java / build
+*.class
+build/
+target/
+.gradle/
+
+# Provided libraries
+*.jar
+lib/
+
+# Submission / course files
+submission.zip
+*.zip
+ai/
+7za.exe
+bundle.bat
+bundle.sh
+chronical.ps1
+
+# OS
+.DS_Store
+Thumbs.db
